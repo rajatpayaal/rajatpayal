@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/rajatpayal/static/css/main.073c9b0a.css",
-    "main.js": "/rajatpayal/static/js/main.59bac129.js",
+    "main.css": "/rajatpayal/static/css/main.3a66f916.css",
+    "main.js": "/rajatpayal/static/js/main.b357f0a2.js",
     "static/js/787.6fb6b63d.chunk.js": "/rajatpayal/static/js/787.6fb6b63d.chunk.js",
+    "static/media/zzzzzz-unscreen.gif": "/rajatpayal/static/media/zzzzzz-unscreen.fe2d8fdb089b1f41e101.gif",
+    "static/media/movi.png": "/rajatpayal/static/media/movi.f4edbbabf7bb3a1ba77d.png",
+    "static/media/da.png": "/rajatpayal/static/media/da.bb180bb08126ae3f01cf.png",
+    "static/media/simplle.png": "/rajatpayal/static/media/simplle.e6729fdc37d2a49be1ed.png",
+    "static/media/att.png": "/rajatpayal/static/media/att.c68c892dccc8df929d63.png",
+    "static/media/iot.png": "/rajatpayal/static/media/iot.76ded10dea0c9574ea67.png",
+    "static/media/kmean.png": "/rajatpayal/static/media/kmean.5186f2da00f820b60a04.png",
+    "static/media/Rajatpayal_resume_.pdf": "/rajatpayal/static/media/Rajatpayal_resume_.a759aaceaac76d8c7d07.pdf",
+    "static/media/home-main.png": "/rajatpayal/static/media/home-main.439723467c1fa9a8d4b7.png",
+    "static/media/home-bg.jpg": "/rajatpayal/static/media/home-bg.aeecec0179f374be6923.jpg",
+    "static/media/logo.png": "/rajatpayal/static/media/logo.01333632a11d2777325c.png",
+    "static/media/pre.svg": "/rajatpayal/static/media/pre.390f0da4bb8045ac7d3f.svg",
     "index.html": "/rajatpayal/index.html",
-    "main.073c9b0a.css.map": "/rajatpayal/static/css/main.073c9b0a.css.map",
-    "main.59bac129.js.map": "/rajatpayal/static/js/main.59bac129.js.map",
+    "main.3a66f916.css.map": "/rajatpayal/static/css/main.3a66f916.css.map",
+    "main.b357f0a2.js.map": "/rajatpayal/static/js/main.b357f0a2.js.map",
     "787.6fb6b63d.chunk.js.map": "/rajatpayal/static/js/787.6fb6b63d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.59bac129.js"
+    "static/css/main.3a66f916.css",
+    "static/js/main.b357f0a2.js"
   ]
 }
