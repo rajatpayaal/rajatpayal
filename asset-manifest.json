@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rajatpayaal.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/rajatpayaal.github.io/static/js/main.33358fe7.js",
-    "static/js/787.30674137.chunk.js": "/rajatpayaal.github.io/static/js/787.30674137.chunk.js",
-    "index.html": "/rajatpayaal.github.io/index.html",
-    "main.073c9b0a.css.map": "/rajatpayaal.github.io/static/css/main.073c9b0a.css.map",
-    "main.33358fe7.js.map": "/rajatpayaal.github.io/static/js/main.33358fe7.js.map",
-    "787.30674137.chunk.js.map": "/rajatpayaal.github.io/static/js/787.30674137.chunk.js.map"
+    "main.css": "/rajatpayal/static/css/main.073c9b0a.css",
+    "main.js": "/rajatpayal/static/js/main.59bac129.js",
+    "static/js/787.6fb6b63d.chunk.js": "/rajatpayal/static/js/787.6fb6b63d.chunk.js",
+    "index.html": "/rajatpayal/index.html",
+    "main.073c9b0a.css.map": "/rajatpayal/static/css/main.073c9b0a.css.map",
+    "main.59bac129.js.map": "/rajatpayal/static/js/main.59bac129.js.map",
+    "787.6fb6b63d.chunk.js.map": "/rajatpayal/static/js/787.6fb6b63d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.33358fe7.js"
+    "static/js/main.59bac129.js"
   ]
 }
