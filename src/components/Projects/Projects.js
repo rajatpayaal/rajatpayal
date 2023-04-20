@@ -18,14 +18,14 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          <b>Here are a few projects I've worked on recently.</b>
         </p>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px", }}>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Simple_notes "
+              title="Simple_notes"
               description="Simple_notes:
             People have a busy schedule, we care for to forget many important 
               things easily, and to remember these things we need to note down
@@ -75,7 +75,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title=": Attendance Management Application"
+              title="Attendance Management Application"
               description="An Attendance Management Application is a software tool used to track and manage the attendance of employees or students. The application typically allows users to record attendance data in real-time, generate reports on attendance trends, and manage exceptions, such as sick leave or vacation days. Some applications may also integrate with biometric or RFID devices to automate the process of capturing attendance data. The data collected can be used for payroll processing and other HR-related tasks"
               ghLink="https://github.com/rajatpayaal/Student_Attendace.git"
               // demoLink=

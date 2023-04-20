@@ -7,55 +7,55 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          {/* <p style={{ textAlign: "justify" }}> */}
-            {/* Hi Everyone, I am <span className="purple">Rajat Payal </span>
-            from <span className="purple"> Rishikesh , India.</span>
-            <br />I am pursuing Btech in computer science engineering 
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
-          </p>
-          <ul>
-           
-
-            <br />
-      
-
-
-            <ImPointRight /> Work Experiences Software Development Internship<br /><br />
-Wayezi Technologies ( 7 months ) <br />
-1. Collaborated with Wayezi to design UI/UX , Payment Gateway and features using javascript/java.<br />
-2. Implemented optimized splash screen and scalable REST APIs for improve performance.<br />
-3.Developed user profile interface using XML for a seamless user experience.<br />
-4. Responsibilities : Writing testable code and integrating software components into functional systems..<br />
-6. Tech stack: Firebase RDBMS, RESTful APIs, JAVA, React, SQL, Google Cloud Services<br />
-( Jun 2020 - Dec 2020) , Delhi,India)<br />
+          <p style={{ textAlign: "justify" ,fontWeight:"bold" }}>
+            Hi, I am &nbsp; <span className="purple">Rajat Payal &nbsp;</span>
+            from <span className="purple"> (Rishikesh , India)</span>&nbsp;<samp> as a computer science graduate my keen interest in 
+              software development and collaborative
+               work experience in different development stages, have made me a valuable asset to any 
+               team with a methodical and analytical mindset , strong skills in various tasks and a dedication
+                to continuous learning, I am committed to delivering high-quality work. </samp>
+            <br /></p>
+            <p style={{textAlign:"left",fontWeight:"bold",color:"black"}}> <b style={{color:'black'}}><h4> <ImPointRight /> Tranning experience :</h4></b></p><br />
+<p style={{textAlign:"justify" ,fontWeight:'bold', color:'black'}}><ImPointRight /> <b style={{color:'black'}}>"Software Development Internship at Wayezi Technologies: Gaining Hands-On Experience in Modern Technologies"</b></p>
+<p style={{textAlign:"justify" ,fontWeight:'bold', color:'white'}}> In Delhi, India, at Wayezi Technologies, I completed a software 
+  development internship during which I received practical expertise in creating
+  software applications. Leading the design and implementation of UI/UX features, 
+  the CCTV module, and the Payment Gateway utilising <b style={{color:'black'}}>javascript</b>, <b style={{color:'black'}}>java</b>, and <b style={{color:'black'}}>Next.js</b> was my main duty.
+  I also used <b style={{color:'black'}}>XML</b>, <b style={{color:'black'}}>CSS</b>, <b style={{color:'black'}}>JavaScript</b>, <b style={{color:'black'}}>React</b>, and <b style={{color:'black'}}>HTML</b> to develop scalable REST APIs, 
+  user profile interfaces, and optimised splash screens. To construct a completely
+  functional software system, I also concentrated on writing tested code and integrating software components.
+  I used <b style={{color:'black'}}>Firebase RDBMS</b>, <b style={{color:'black'}}>REST API</b>, <b style={{color:'black'}}>Java</b>, <b style={{color:'black'}}>React</b>, <b style={{color:'black'}}>SQL</b>, and <b style={{color:'black'}}>Google Cloud Platform</b> as my technology stack.
+  My internship overall gave me significant exposure to cutting-edge technology and software development,
+  which has prepared me for my future work in this area.   </p>
+  <br />
+<p style={{textAlign:"justify" ,fontWeight:'bold', color:'black'}}> <ImPointRight /> <b style={{color:'black'}}>"Widya's AI Exploration: Developing Skills in Model Development and Performance Evaluation"</b></p>
+<p style={{textAlign:"justify" ,fontWeight:'bold', color:'white'}}> I got the chance to work with the onboarding team at Widya during my prior Artificial Intelligence Internship, 
+  which took place from January 2021 to March 2021. During that time, I also obtained practical experience creating AI
+  models using contemporary technology. My primary duties were using <b style={{color:'black'}}>RapidMiner</b> to create models, building workflows 
+  to increase the effectiveness of AI operations, and choosing the <b style={{color:'black'}}>Apriori Algorithm</b> (support and confidence) 
+  for association rule derivation. To reach <b style={{color:'black'}}>90-95 percent</b> model evaluation efficiency, I additionally ran tests 
+  and model tuning. I also collaborated with team members when developing models, preparing data, and assessing performance, tech stack use 
+  <b style={{color:'black'}}>Python</b>, <b style={{color:'black'}}>R</b>, <b style={{color:'black'}}>SQL</b>, <b style={{color:'black'}}>XML</b>, and machine learning methods made up my technological stack </p>
 <br />
-<ImPointRight /> Artificial Intelligence Internship <br /> <br />
-Widya ( 3 months ) <br />
-1. improved AI processes’efficiency as an AI intern with the onboarding team.<br />
-2. Florished workflows using RapidMiner for model development and performance evaluation.<br />
-3. Achieved 90-95% efficacy via Apriori Algorithm for association rule derivation, tuning, and testing.<br />
-4. Responsibilities: Preprocessing data, Developing models, Evaluating performance, Collaborating with team.<br />
-Tech stack: Python, R, SQL, XML, Machine learning algorithm
-( Jan 2020 - Mar 2021) , Remote)
-<br />
-<ImPointRight /> Software Development Internship <br /><br />
-ASCITECHNO (3 months )<br />
-(Project name: Attendance Management Application)<br />
-1. Designed and developed a full-stack application , Responsibilities includes app development ,optimization<br />
- and collaboration with team members , Utilization Firebase (RDBMS) and AWS cloud services.<br />
-2. Tech stack: SQLite Database, Adobe XD, Flutter(IOS), Firebase, Java<br />
-<br /><br />
-My strength :
+ <p style={{textAlign:"justify" ,fontWeight:'bold', color:'black'}}>  <ImPointRight />Software Development Internship - Full-Stack App Development with ASCITECHNO.  </p>
+ <p style={{textAlign:"justify", fontWeight:'bold', color:'white'}}>
+From June 2019 to August 2019, I worked on a project called <b style={{color:'black'}}>Attendance Management Application</b> 
+as part of my Software Development Internship at <b style={{color:'black'}}>ASCITECHNO</b> in Dehradun, India. As part of my responsibilities,
+I planned and built a full-stack Android app, optimised it for performance, and cooperated with team members
+to ensure smooth functionality. I used a mix of technologies to accomplish this, including <b style={{color:'black'}}>SQLite Database</b>,
+<b style={{color:'black'}}>Adobe XD</b>, <b style={{color:'black'}}>Flutter for IOS</b>, <b style={{color:'black'}}>Firebase</b>, and <b style={{color:'black'}}>Java</b>. In addition, I used cloud services such as <b style={{color:'black'}}>Firebase RDBMS</b> 
+and <b style={{color:'black'}}>Amazon Web Services (AWS)</b> to enable seamless connectivity with the application's backend. Overall,
+this experience taught me a lot about full-stack programming and prepared me for future prospects in this exciting sector.
+</p><br />
+<p style={{textAlign:"justify" ,fontWeight:'bold', color:'black'}}> My strength : </p>
 
-<br />
-<li className="about-activity">
+<span> <li className="about-activity" style={{fontWeight:'bold'}}>
   <ImPointRight /> Teamwork, Dedicated, Result Oriented, Logical, Analytic skills , Problem solving 
 </li>
-<li className="about-activity">
+<li className="about-activity" style={{fontWeight:'bold'}}>
               <ImPointRight /> yoga , Football , Swimming 
-            </li>
+            </li></span>
+
 
 
 
@@ -63,13 +63,12 @@ My strength :
 
 
             
-            
-          </ul> */}
+        
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "black", fontWeight:'bold' }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Rajatpayal</footer>
+          <footer className="blockquote-footer"><b style={{color:'black'}}>Rajatpayal</b></footer>
         </blockquote>
       </Card.Body>
     </Card>

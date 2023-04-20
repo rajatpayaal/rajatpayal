@@ -19,37 +19,38 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em"  }}>
               Let me  <span className="purple"> introduce </span> myself
             </h1>
-            <p className="home-about-body">
-            i am computer science graduate my keen interest in software development and collaborative work 
+            <p className="home-about-body" style={{ fontSize: "2.6em"  }}  >
+            <b>"  i am computer science graduate my keen interest in software development and collaborative work 
 experience in different development stages, have made me a valuable asset to any team with a methodical
 and analytical mindset , strong skills in various tasks and a dedication to continuous learning,
-I am committed to delivering high-quality work.
+I am committed to delivering high-quality work.  "</b>
+
+
+
               <br />
-              <br />I am fluent in classics Software Languages like &nbsp;
+              <br /><b>I am fluent in classics Software Languages like &nbsp;</b>
               
                 <b className="purple">   
                 JAVA, Javascript and Python. </b>
+              <b> and my field of Interest's are building &nbsp;</b>
               
-              <br />
-              <br />
-              My field of Interest's are building &nbsp;
-              
-                <b className="purple">Android devlopment , Web Technologies using javaScript </b> and
+                <b className="purple">Android devlopment , Web Technologies using javaScript </b> <b>and</b>
                 {" "}
                 <b className="purple">
                  Data Analytics.
                 </b>
+                
               
               <br />
               <br />
               
-                  <b>Software Platforms/library: </b> &nbsp; Android SDK , Android Studio, Gradle, Git(version controle), MVC, MVP, MVVM, 
-RESTful APIs, JSON, Material Design, Firebase, Retrofit, Gradle, Java Collections, Java Swing
+                  <b className="purple">Software Platforms/library </b>: &nbsp; <b>Android SDK , Android Studio, Gradle, Git(version controle), MVC, MVP, MVVM, 
+RESTful APIs, JSON, Material Design, Firebase, Retrofit, Gradle, Java Collections, Java Swing</b>
                
               
-              &nbsp; like
+              &nbsp; <b>like</b>
               
-                <b className="purple"> React.js and Next.js</b>
+                <b> React.js and Next.js</b>
               
             </p>
           </Col>
@@ -62,7 +63,10 @@ RESTful APIs, JSON, Material Design, Firebase, Retrofit, Gradle, Java Collection
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>Connect with me</h1>
+            <h1><b>Connect with me</b></h1>
+            
+
+
             {/* <p>
               Feel free to <span className="purple">connect </span>with me
             </p> */}

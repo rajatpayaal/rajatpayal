@@ -11,13 +11,15 @@ html {
     rgb(255, 106, 0),
   );
 
-  --imp-text-color: #ffffff;
+  --imp-text-color: #000000;
   /* text-shadow: 2px 2px #434242; */
   
 }
 
 .purple {
   color: var(--imp-text-color) !important;
+  /* text-shadow: 2px 2px #434242; */
+
 }
 
 button:focus {
@@ -303,10 +305,17 @@ button:focus {
   font-size: 2.2em !important;
   color: #ffffff !important;
   font-weight: 600 !important;
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+  
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
   color: #ffffff !important;
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
 }
 
 @media (max-width: 767px) {
@@ -314,6 +323,7 @@ button:focus {
     font-size: 1.4em !important;
     font-weight: 500 !important;
     position: absolute !important;
+    
   }
   .Typewriter__cursor {
     display: none !important;
@@ -475,7 +485,7 @@ button:focus {
 }
 
 .project-card-view {
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  box-shadow: 0 4px 5px 3px rgba(0, 0, 0, 0.459) !important;
   color: rgb(255, 255, 255) !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
@@ -566,14 +576,14 @@ button:focus {
 }
 
 .tech-icons {
-  font-size: 4.5em !important;
+  font-size: 2.5em !important;
   margin: 15px !important;
   padding: 10px !important;
   opacity: 0.93 !important;
-  border: 1.7px solid rgba(80, 79, 81, 0.637) !important;
+  border: px solid rgba(80, 79, 81, 0.637) !important;
   vertical-align: middle !important;
   text-align: center !important;
-  border-radius: 100px !important;
+  border-radius: 20px !important;
   display: table !important;
   box-shadow: 4px 5px 4px 3px rgb(240, 240, 240) !important;
   overflow: hidden !important;
