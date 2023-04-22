@@ -9,8 +9,10 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" ,fontWeight:"bold" }}>
             Hi, I am &nbsp; <span className="purple">Rajat Payal &nbsp;</span>
-            from <span className="purple"> (Rishikesh , India)</span>&nbsp;<samp> as a computer science graduate my keen interest in 
-              software development and collaborative
+            from <span className="purple"> (Rishikesh , India)</span>&nbsp;<samp> as a <b style={{color:'black'}}>Bachelor of Computer Science & Engineering</b> graduate from 
+              Dev Bhoomi Institute of Technology and Engineering,
+               and previously completed a <b style={{color:'black'}}>Diploma in Computer Science & Engineering</b> from Swami Rama Himalayan University my keen interest in 
+              software development and collaborativeomputer
                work experience in different development stages, have made me a valuable asset to any 
                team with a methodical and analytical mindset , strong skills in various tasks and a dedication
                 to continuous learning, I am committed to delivering high-quality work. </samp>
@@ -47,7 +49,17 @@ to ensure smooth functionality. I used a mix of technologies to accomplish this,
 and <b style={{color:'black'}}>Amazon Web Services (AWS)</b> to enable seamless connectivity with the application's backend. Overall,
 this experience taught me a lot about full-stack programming and prepared me for future prospects in this exciting sector.
 </p><br />
-<p style={{textAlign:"justify" ,fontWeight:'bold', color:'black'}}> My strength : </p>
+
+<p style={{textAlign:"left",fontWeight:"bold",color:"black"}}> <b style={{color:'black'}}><h4> <ImPointRight /> Certifications :</h4></b></p><br />
+<p style={{textAlign:"left",fontWeight:"bold",color:"black"}}>1. Data Analytics Professional Certiﬁcate : <span style={{textAlign:"left",fontWeight:"bold",color:"white"}}>Comprehensive training in data analytics with Google tools, covering
+data collection, analysis, and visualization, and providing hands-on experience.</span></p>
+
+<p style={{textAlign:"left",fontWeight:"bold",color:"black"}}>2. ASCITECHNO HUB Android App Development Certiﬁcation :<span style={{textAlign:"left",fontWeight:"bold",color:"white"}}> A+ grade with training from a reputable provider.</span></p>
+
+<p style={{textAlign:"left",fontWeight:"bold",color:"black"}}>3. Data Science & MA :<span style={{textAlign:"left",fontWeight:"bold",color:"white"}}> Application in Health, Technology & Business from Nottingham Trent University</span></p>
+<br />
+<p style={{textAlign:"left",fontWeight:"bold",color:"black"}}> <b style={{color:'black'}}><h4> <ImPointRight /> My strength :</h4></b></p><br />
+
 
 <span> <li className="about-activity" style={{fontWeight:'bold'}}>
   <ImPointRight /> Teamwork, Dedicated, Result Oriented, Logical, Analytic skills , Problem solving 
