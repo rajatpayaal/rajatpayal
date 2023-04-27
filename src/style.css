@@ -544,7 +544,7 @@ button:focus {
 .btn-primary {
   color: #fff !important;
   background-color:  #000000e7 !important;
-  border-color:  #000000e7 !important;
+  border-color:  #ff7300e7 !important;
 }
 
 .btn-primary:hover {
@@ -748,11 +748,12 @@ button:focus {
 .fork-btn {
   font-size: 1.1em !important;
   padding-top: 10px !important;
+  
 }
 
 .fork-btn-inner {
   line-height: 1.4em !important;
-  background-color: #944cce0e !important;
+  background-color: #e6e6e625 !important;
   padding: 0.25rem 1.1rem !important;
   vertical-align: middle !important;
   text-align: center !important;
@@ -761,7 +762,7 @@ button:focus {
 .fork-btn-inner:hover {
   transform: translateY(-2px) !important;
   background-color: #bfbfbf86 !important;
-  border-color: #00000086 !important;
+  border-color: #f3f3f3 !important;
 }
 .fork-btn-inner::after {
   display: none !important;
