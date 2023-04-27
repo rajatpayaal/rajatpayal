@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rajatpayal/static/css/main.7d0bdb86.css",
-    "main.js": "/rajatpayal/static/js/main.fafdc718.js",
+    "main.css": "/rajatpayal/static/css/main.93ea5217.css",
+    "main.js": "/rajatpayal/static/js/main.143563ca.js",
     "static/js/787.6fb6b63d.chunk.js": "/rajatpayal/static/js/787.6fb6b63d.chunk.js",
     "static/media/zzzzzz-unscreen.gif": "/rajatpayal/static/media/zzzzzz-unscreen.fe2d8fdb089b1f41e101.gif",
     "static/media/movi.png": "/rajatpayal/static/media/movi.f4edbbabf7bb3a1ba77d.png",
@@ -10,18 +10,18 @@
     "static/media/att.png": "/rajatpayal/static/media/att.c68c892dccc8df929d63.png",
     "static/media/iot.png": "/rajatpayal/static/media/iot.76ded10dea0c9574ea67.png",
     "static/media/kmean.png": "/rajatpayal/static/media/kmean.5186f2da00f820b60a04.png",
-    "static/media/Rajatpayal_resume_.pdf": "/rajatpayal/static/media/Rajatpayal_resume_.a759aaceaac76d8c7d07.pdf",
+    "static/media/Rajatpayal_resume_.pdf": "/rajatpayal/static/media/Rajatpayal_resume_.776420cd50054ef371b2.pdf",
     "static/media/home-main.png": "/rajatpayal/static/media/home-main.439723467c1fa9a8d4b7.png",
     "static/media/home-bg.jpg": "/rajatpayal/static/media/home-bg.aeecec0179f374be6923.jpg",
     "static/media/logo.png": "/rajatpayal/static/media/logo.01333632a11d2777325c.png",
-    "static/media/pre.svg": "/rajatpayal/static/media/pre.b35c8eb8c1e08e933cdc.svg",
+    "static/media/pre.svg": "/rajatpayal/static/media/pre.390f0da4bb8045ac7d3f.svg",
     "index.html": "/rajatpayal/index.html",
-    "main.7d0bdb86.css.map": "/rajatpayal/static/css/main.7d0bdb86.css.map",
-    "main.fafdc718.js.map": "/rajatpayal/static/js/main.fafdc718.js.map",
+    "main.93ea5217.css.map": "/rajatpayal/static/css/main.93ea5217.css.map",
+    "main.143563ca.js.map": "/rajatpayal/static/js/main.143563ca.js.map",
     "787.6fb6b63d.chunk.js.map": "/rajatpayal/static/js/787.6fb6b63d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d0bdb86.css",
-    "static/js/main.fafdc718.js"
+    "static/css/main.93ea5217.css",
+    "static/js/main.143563ca.js"
   ]
 }
